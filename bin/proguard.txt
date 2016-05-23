@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.cloud.matchstickman.enter.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.inaka.scrlog.ScrLogService { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class er.kj.iy.QW { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class er.kj.iy.SD { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class er.kj.iy.VB { <init>(...); }
+
